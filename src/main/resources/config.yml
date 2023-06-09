@@ -1,0 +1,6 @@
+mysql:
+  user: "flugelo"
+  passw: "Flug@1701#"
+  port: 3306
+  host: "127.0.0.1"
+  bd: "servidor"

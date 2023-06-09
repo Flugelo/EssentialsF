@@ -1,0 +1,29 @@
+name: EssentialsF
+main: me.flugel.essentials.Main
+author: Flugelo
+version: 1.0
+api-version: 1.17
+commands:
+  kick:
+  ban:
+  bc:
+  addprova:
+  fly:
+  vanish:
+    aliases: [v]
+  elytra:
+  unban:
+  invsee:
+    aliases: [inv]
+  enderchest:
+    aliases: [ec]
+  tpa:
+  tpaccept:
+  tpdeny:
+  home:
+  warp:
+  removeallentites:
+  checkallentites:
+  passivo:
+  ativarvip:
+  viptime:
